@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Jan 10 15:59:27 2020
+Quartus Prime Version : 16.1.0 Build 196 10/24/2016 SJ Standard Edition
+Revision Name : tse_tutorial
+Top-level Entity Name : tse_tutorial
+Family : Cyclone IV E
+Total logic elements : 17,809
+    Total combinational functions : 11,532
+    Dedicated logic registers : 11,977
+Total registers : 12001
+Total pins : 32
+Total virtual pins : 0
+Total memory bits : 2,879,884
+Embedded Multiplier 9-bit elements : 4
+Total PLLs : 1

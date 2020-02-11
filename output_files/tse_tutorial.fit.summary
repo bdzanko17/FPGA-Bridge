@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri Jan 10 16:02:23 2020
+Quartus Prime Version : 16.1.0 Build 196 10/24/2016 SJ Standard Edition
+Revision Name : tse_tutorial
+Top-level Entity Name : tse_tutorial
+Family : Cyclone IV E
+Device : EP4CE115F29C7
+Timing Models : Final
+Total logic elements : 16,076 / 114,480 ( 14 % )
+    Total combinational functions : 11,551 / 114,480 ( 10 % )
+    Dedicated logic registers : 11,914 / 114,480 ( 10 % )
+Total registers : 11941
+Total pins : 32 / 529 ( 6 % )
+Total virtual pins : 0
+Total memory bits : 2,879,884 / 3,981,312 ( 72 % )
+Embedded Multiplier 9-bit elements : 4 / 532 ( < 1 % )
+Total PLLs : 1 / 4 ( 25 % )

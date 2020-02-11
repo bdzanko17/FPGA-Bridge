@@ -1,0 +1,149 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "ENET0_GTX_CLK",
+					"strict" : false
+				},
+				{
+					"name" : "ENET0_MDC",
+					"strict" : false
+				},
+				{
+					"name" : "ENET0_RESET_N",
+					"strict" : false
+				},
+				{
+					"name" : "ENET0_TX_DATA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ENET0_TX_DATA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ENET0_TX_DATA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ENET0_TX_DATA[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ENET0_TX_EN",
+					"strict" : false
+				},
+				{
+					"name" : "ENET1_GTX_CLK",
+					"strict" : false
+				},
+				{
+					"name" : "ENET1_MDC",
+					"strict" : false
+				},
+				{
+					"name" : "ENET1_RESET_N",
+					"strict" : false
+				},
+				{
+					"name" : "ENET1_TX_DATA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ENET1_TX_DATA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ENET1_TX_DATA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ENET1_TX_DATA[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ENET1_TX_EN",
+					"strict" : false
+				},
+				{
+					"name" : "ENET0_MDIO",
+					"strict" : false
+				},
+				{
+					"name" : "ENET1_MDIO",
+					"strict" : false
+				},
+				{
+					"name" : "KEY[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ENET0_RX_CLK",
+					"strict" : false
+				},
+				{
+					"name" : "ENET1_RX_CLK",
+					"strict" : false
+				},
+				{
+					"name" : "ENET0_RX_DV",
+					"strict" : false
+				},
+				{
+					"name" : "ENET0_RX_DATA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ENET0_RX_DATA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ENET0_RX_DATA[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ENET0_RX_DATA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ENET1_RX_DV",
+					"strict" : false
+				},
+				{
+					"name" : "ENET1_RX_DATA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ENET1_RX_DATA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ENET1_RX_DATA[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ENET1_RX_DATA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tms",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tck",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdi",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdo",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
